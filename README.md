@@ -2,7 +2,7 @@
 data visualization 
 
 Fundamentals of Visualization with Tableau from University of California, Davis
-Peer-graded Assignment: #MakeoverMonday Community Project Activity
+Peer-graded Assignment
 
 #MakeoverMondayCoursera 
 
